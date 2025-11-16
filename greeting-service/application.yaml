@@ -18,5 +18,5 @@ management:
 
 
 greeting-service:
-  greeting: "Olá"
-  default-value: "Mundo"
+  greeting: "DS"
+  default-value: "AASS"
